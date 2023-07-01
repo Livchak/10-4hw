@@ -23,7 +23,9 @@
 Немного глубже копнул в Bacula, она мне понравилась больше чем rsync
 
 [Bacula DIR](./configs/bacula-dir.conf)
+
 [Bacula FD](./configs/bacula-fd.conf)
+
 [Bacula SD](./configs/bacula-sd.conf)
 
 
@@ -37,7 +39,9 @@
 <img src = "img/rsync.png" width = 100%>
 
 [Rsync config](./configs/rsyncd.conf)
+
 [Скрипт из лекции](./configs/backup-node1.sh)
+
 [Скрипт поглубже](./configs/backup-node2.sh)
 
 
